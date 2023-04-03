@@ -4,5 +4,3 @@ import initTiltEffect from "./scripts/tiltAnimation";
 
 initScrollReveal(targetElements, defaultProps);
 initTiltEffect();
-
-// for git
